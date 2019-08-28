@@ -32,7 +32,7 @@ setup(
     author='OpenContrail',
     author_email='dev@lists.opencontrail.org',
     url='http://www.opencontrail.org/documentation/api/r4.1/',
-    version=open('version.info', 'r+').read().strip('\n').strip('\t'),
+    version='5.1.0',
     classifiers=[
         'Intended Audience :: Information Technology',
         'Intended Audience :: Developers',
